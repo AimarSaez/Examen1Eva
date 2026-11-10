@@ -1,0 +1,14 @@
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\ExamenAimarSaez\bin\Debug\net10.0\ExamenAimarSaez.exe
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\ExamenAimarSaez\bin\Debug\net10.0\ExamenAimarSaez.deps.json
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\ExamenAimarSaez\bin\Debug\net10.0\ExamenAimarSaez.runtimeconfig.json
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\ExamenAimarSaez\bin\Debug\net10.0\ExamenAimarSaez.dll
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\ExamenAimarSaez\bin\Debug\net10.0\ExamenAimarSaez.pdb
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\ExamenAimarSaez\obj\Debug\net10.0\ExamenAimarSaez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\ExamenAimarSaez\obj\Debug\net10.0\ExamenAimarSaez.AssemblyInfoInputs.cache
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\ExamenAimarSaez\obj\Debug\net10.0\ExamenAimarSaez.AssemblyInfo.cs
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\ExamenAimarSaez\obj\Debug\net10.0\ExamenAimarSaez.csproj.CoreCompileInputs.cache
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\ExamenAimarSaez\obj\Debug\net10.0\ExamenAimarSaez.dll
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\ExamenAimarSaez\obj\Debug\net10.0\refint\ExamenAimarSaez.dll
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\ExamenAimarSaez\obj\Debug\net10.0\ExamenAimarSaez.pdb
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\ExamenAimarSaez\obj\Debug\net10.0\ExamenAimarSaez.genruntimeconfig.cache
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\ExamenAimarSaez\obj\Debug\net10.0\ref\ExamenAimarSaez.dll
